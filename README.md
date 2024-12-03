@@ -17,7 +17,7 @@ A powerful tool that enables semantic search capabilities for GitHub repositorie
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/github-semantic-search
+git clone https://github.com/dewitt4/github-semantic-search
 cd github-semantic-search
 ```
 
