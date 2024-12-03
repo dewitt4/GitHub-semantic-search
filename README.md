@@ -1,5 +1,3 @@
-# GitHub-semantic-search
-GitHub Semantic Search Optimizer
 
 # GitHub Semantic Search Indexer
 
